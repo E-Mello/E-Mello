@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/E-Mello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-Mello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=E-Mello&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
