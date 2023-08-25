@@ -27,7 +27,8 @@
       <a href="https://www.linkedin.com/in/%C3%A9dio-melo-264714230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--       <a href="https://discord.gg/d87NTvdtWz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   -->
       <a href="https://api.whatsapp.com/send?l=pt&phone=5566997201600" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>     
-  
-![snake gif](https://github.com/E-Mello/E-Mello/blob/output/github-contribution-grid-snake.gif)
+  <br/><br/>
+<!--![snake gif](https://github.com/E-Mello/E-Mello/blob/output/github-contribution-grid-snake.gif)-->
+<img alt="My Contributions" src="https://github.com/E-Mello/E-Mello/blob/output/github-contribution-grid-snake.svg"/>
     
   </div>
