@@ -28,6 +28,6 @@
 <!--       <a href="https://discord.gg/d87NTvdtWz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   -->
       <a href="https://api.whatsapp.com/send?l=pt&phone=5566997201600" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>     
   
-   ![Snake animation](https://github.com/E-Mello/E-Mello/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/E-Mello/E-Mello/blob/output/github-contribution-grid-snake.gif)
     
   </div>
