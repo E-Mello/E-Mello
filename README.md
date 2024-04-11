@@ -3,7 +3,7 @@
 
 
 - 👨‍🎓  At the moment I'm studying languages and improving my skills ...
-- 📚  I’m currently learning: JavaScript, TypeScript, ReactJS, CSS and HTML
+- 📚  And among my skills, I have expertise in Javascript, Typescript, React-Native, NextJS, HTML, CSS, MySQL, PostgreSQL among others
 - 📱  How to reach me: 01566997201600
 - 😊 Nice to meet you !! 
 
