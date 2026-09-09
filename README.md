@@ -1,6 +1,6 @@
 # Hi, I'm Édio Mello 👋
 
-### Senior Software Developer | Web Applications & Cloud Infrastructure
+### Mid-level Software Developer | Web Applications & Cloud Infrastructure
 
 I design and build modern web platforms, combining robust software architecture, high-quality user experiences, and reliable cloud infrastructure.
 
